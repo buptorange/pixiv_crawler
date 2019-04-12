@@ -19,10 +19,6 @@ Get illustrations by illustrators' id on pixiv<br>
 This is made by a noob and used by myself. No offence to laws.<br>
 ニューですから、欠点がたくさん残ってる。でもこれが自分で使えば大丈夫。法律違反ったら削除いたします。<br>
 
-请保留`sleep`。不要给p站添麻烦。<br>
-Please keep `sleep`. Do not trouble pixiv.net.<br>
-`sleep`を保留してください。pixivに迷惑をかかないように。<br>
-
 爬图是源于喜爱。<br>
 It's all out of love of fantastic illustrations.<br>
 イラストをクローってるのは、好きですから。<br>
