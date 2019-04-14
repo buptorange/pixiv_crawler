@@ -1,8 +1,9 @@
-illustration_crawler    イラスト_クローラー
+illustration_crawler    (イラスト_クローラー)
 ===
-<br>
+
 功能1
 ---
+
 按p站画师id爬取该画师所有插画<br>
 Get illustrations by illustrators' id on pixiv<br>
 アーティストID別であらゆるイラストを手にする<br>
@@ -19,6 +20,7 @@ Get illustrations by illustrators' id on pixiv<br>
 
 功能2
 ---
+
 按ehentai链接下载本子<br>
 Get book by href of e-hentai<br>
 e-hentaiリンクで本をダウンロードする<br>
