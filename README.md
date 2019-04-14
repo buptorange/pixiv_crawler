@@ -1,10 +1,8 @@
-illustration_crawler
-===
-イラスト_クローラー
+illustration_crawler    イラスト_クローラー
 ===
 功能1
 ---
-1.按p站画师id爬取该画师所有插画<br>
+按p站画师id爬取该画师所有插画<br>
 Get illustrations by illustrators' id on pixiv<br>
 アーティストID別であらゆるイラストを手にする<br>
 
@@ -20,7 +18,7 @@ Get illustrations by illustrators' id on pixiv<br>
 
 功能2
 ---
-2.按ehentai链接下载本子<br>
+按ehentai链接下载本子<br>
 Get book by href of e-hentai<br>
 e-hentaiリンクで本をダウンロードする<br>
 
@@ -33,6 +31,10 @@ e-hentaiリンクで本をダウンロードする<br>
 
 3.在同目录的hon文件夹下获得本子<br>
 
+功能3
+---
+以ehentai链接在网页下载<br>
+访问`http://www.eroiorenji.xyz`，点击左侧按钮`Get_illusto_by_ehentai_href`，输入单本链接以下载<br>
 
 后记
 ---
