@@ -8,7 +8,7 @@ illustration_crawler    (イラスト_クローラー)
 Get illustrations by illustrators' id on pixiv<br>
 アーティストID別であらゆるイラストを手にする<br>
 
-    用法
+__用法__
 
 1.将画师id存入list.txt:<br>
 >8148062<br>
@@ -25,7 +25,8 @@ Get illustrations by illustrators' id on pixiv<br>
 Get book by href of e-hentai<br>
 e-hentaiリンクで本をダウンロードする<br>
 
-    用法
+__用法__
+
 1.运行ehentai.py,被询问:<br>
 >one or search? (one/search)<br>
 
@@ -37,7 +38,7 @@ e-hentaiリンクで本をダウンロードする<br>
 功能3
 ---
 以ehentai链接在网页下载<br>
-访问`http://www.eroiorenji.xyz`，点击左侧按钮`Get_illusto_by_ehentai_href`，输入单本链接以下载<br>
+访问[エロいオレンジ](http://www.eroiorenji.xyz)，点击左侧按钮`Get_illusto_by_ehentai_href`，输入单本链接以下载<br><br><br>
 
 后记
 ---
