@@ -26,12 +26,12 @@ e-hentaiリンクで本をダウンロードする<br>
 
     用法
 1.运行ehentai.py,被询问:<br>
->one or search? (one/search)
-2.one:某本的href，如：
->https://e-hentai.org/g/1397778/8a9796d64d/
- search:search href，如：
->https://e-hentai.org/?f_cats=0&f_search=あるぷ%E3%80%80Chinese
-3.在同目录的hon文件夹下获得本子
+>one or search? (one/search)<br>
+
+2.one:某本的href，如:`https://e-hentai.org/g/1397778/8a9796d64d/`<br>
+ search:search href，如：`https://e-hentai.org/?f_cats=0&f_search=あるぷ%E3%80%80Chinese`<br>
+
+3.在同目录的hon文件夹下获得本子<br>
 
 
 后记
