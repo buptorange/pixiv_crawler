@@ -38,7 +38,7 @@ __用法__
 功能3
 ---
 以ehentai链接在网页下载<br>
-访问[エロいオレンジ](http://www.eroiorenji.xyz)，点击左侧按钮`Get_illusto_by_ehentai_href`，输入单本链接以下载<br><br><br>
+访问[カワイオレンジ](http://www.kawaiorenji.xyz)，点击左侧按钮`Get_illusto_by_ehentai_href`，输入单本链接以下载<br><br><br>
 
 后记
 ---
@@ -46,6 +46,3 @@ __用法__
 This is made by a noob and used by myself. No offence to laws.<br>
 ニューですから、欠点がたくさん残ってる。でもこれが自分で使えば大丈夫。法律違反ったら削除いたします。<br>
 
-爬图是源于喜爱。<br>
-It's all out of love of fantastic illustrations.<br>
-イラストをクローってるのは、好きですから。<br>
