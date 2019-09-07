@@ -35,7 +35,7 @@ __用法__
 
 3.在同目录的hon文件夹下获得本子<br>
 
-功能3
+~~功能3
 ---
 以ehentai链接在网页下载<br>
 访问[カワイオレンジ](http://www.kawaiorenji.xyz)，点击左侧按钮`Get_illusto_by_ehentai_href`，输入单本链接以下载<br><br><br>
